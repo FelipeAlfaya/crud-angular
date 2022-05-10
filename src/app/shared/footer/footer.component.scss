@@ -1,0 +1,25 @@
+.container {
+  background-color: #23232e;
+  padding: 20px 50px;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  position: 32px;
+}
+
+.copyright {
+  color: #fff;
+  font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+}
+
+a { 
+  position: relative;
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  position: relative;
+  text-decoration: underline;
+  color: #fff;
+}
